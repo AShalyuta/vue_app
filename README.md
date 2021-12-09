@@ -1,4 +1,4 @@
-# api_lab_my2
+# anime
 
 ## Project setup
 ```
